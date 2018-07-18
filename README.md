@@ -1,2 +1,2 @@
 # DBMS
-this is 4th sem mini project for the COMP 232.
+This is 4th sem mini project for the COMP 232.
